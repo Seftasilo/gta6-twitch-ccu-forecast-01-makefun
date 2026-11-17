@@ -1,8 +1,8 @@
 # GTA VI Twitch CCU forecast — make.fun entry
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
-[![Python 3.13](https://img.shields.io/badge/python-3.13-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/Seftasilo/gta6-twitch-ccu-forecast-01-makefun/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/Seftasilo/gta6-twitch-ccu-forecast-01-makefun/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
 
 Forecasts how many people watch Grand Theft Auto VI live on Twitch in each
 hour of its release day (2026-11-19 UTC), from everything recorded up to
